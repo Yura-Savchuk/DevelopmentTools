@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.view;
+package com.coulcod.development_tools.view;
 
 import android.content.Context;
 import android.support.v4.widget.CursorAdapter;

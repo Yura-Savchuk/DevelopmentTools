@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.util;
+package com.coulcod.development_tools.util;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;

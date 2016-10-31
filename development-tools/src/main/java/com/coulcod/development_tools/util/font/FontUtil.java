@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.util.font;
+package com.coulcod.development_tools.util.font;
 
 import android.graphics.Typeface;
 import android.support.annotation.NonNull;

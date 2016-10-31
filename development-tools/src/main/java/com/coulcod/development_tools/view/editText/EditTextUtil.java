@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.view.editText;
+package com.coulcod.development_tools.view.editText;
 
 import android.widget.EditText;
 

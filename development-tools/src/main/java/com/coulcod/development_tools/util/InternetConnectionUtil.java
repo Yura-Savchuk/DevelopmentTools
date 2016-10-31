@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.util;
+package com.coulcod.development_tools.util;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.view.recyclerView;
+package com.coulcod.development_tools.view.recyclerView;
 
 import android.content.Context;
 import android.content.res.TypedArray;

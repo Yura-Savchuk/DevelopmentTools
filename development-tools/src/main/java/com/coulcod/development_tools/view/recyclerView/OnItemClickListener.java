@@ -1,4 +1,4 @@
-package com.coulcod.recipescatalog.entity.view.recyclerView;
+package com.coulcod.development_tools.view.recyclerView;
 
 /**
  * Created by macbookpro on 21.07.16.
